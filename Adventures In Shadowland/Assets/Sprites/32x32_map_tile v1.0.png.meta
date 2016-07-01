@@ -1,0 +1,1188 @@
+fileFormatVersion: 2
+guid: 868590fa0d4b6c94f8971799203ef95b
+timeCreated: 1425828275
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 32x32_map_tile v1.0_0
+    21300002: 32x32_map_tile v1.0_1
+    21300004: 32x32_map_tile v1.0_2
+    21300006: 32x32_map_tile v1.0_3
+    21300008: 32x32_map_tile v1.0_4
+    21300010: 32x32_map_tile v1.0_5
+    21300012: 32x32_map_tile v1.0_6
+    21300014: 32x32_map_tile v1.0_7
+    21300016: 32x32_map_tile v1.0_8
+    21300018: 32x32_map_tile v1.0_9
+    21300020: 32x32_map_tile v1.0_10
+    21300022: 32x32_map_tile v1.0_11
+    21300024: 32x32_map_tile v1.0_12
+    21300026: 32x32_map_tile v1.0_13
+    21300028: 32x32_map_tile v1.0_14
+    21300030: 32x32_map_tile v1.0_15
+    21300032: 32x32_map_tile v1.0_16
+    21300034: 32x32_map_tile v1.0_17
+    21300036: 32x32_map_tile v1.0_18
+    21300038: 32x32_map_tile v1.0_19
+    21300040: 32x32_map_tile v1.0_20
+    21300042: 32x32_map_tile v1.0_21
+    21300044: 32x32_map_tile v1.0_22
+    21300046: 32x32_map_tile v1.0_23
+    21300048: 32x32_map_tile v1.0_24
+    21300050: 32x32_map_tile v1.0_25
+    21300052: 32x32_map_tile v1.0_26
+    21300054: 32x32_map_tile v1.0_27
+    21300056: 32x32_map_tile v1.0_28
+    21300058: 32x32_map_tile v1.0_29
+    21300060: 32x32_map_tile v1.0_30
+    21300062: 32x32_map_tile v1.0_31
+    21300064: 32x32_map_tile v1.0_32
+    21300066: 32x32_map_tile v1.0_33
+    21300068: 32x32_map_tile v1.0_34
+    21300070: 32x32_map_tile v1.0_35
+    21300072: 32x32_map_tile v1.0_36
+    21300074: 32x32_map_tile v1.0_37
+    21300076: 32x32_map_tile v1.0_38
+    21300078: 32x32_map_tile v1.0_39
+    21300080: 32x32_map_tile v1.0_40
+    21300082: 32x32_map_tile v1.0_41
+    21300084: 32x32_map_tile v1.0_42
+    21300086: 32x32_map_tile v1.0_43
+    21300088: 32x32_map_tile v1.0_44
+    21300090: 32x32_map_tile v1.0_45
+    21300092: 32x32_map_tile v1.0_46
+    21300094: 32x32_map_tile v1.0_47
+    21300096: 32x32_map_tile v1.0_48
+    21300098: 32x32_map_tile v1.0_49
+    21300100: 32x32_map_tile v1.0_50
+    21300102: 32x32_map_tile v1.0_51
+    21300104: 32x32_map_tile v1.0_52
+    21300106: 32x32_map_tile v1.0_53
+    21300108: 32x32_map_tile v1.0_54
+    21300110: 32x32_map_tile v1.0_55
+    21300112: 32x32_map_tile v1.0_56
+    21300114: 32x32_map_tile v1.0_57
+    21300116: 32x32_map_tile v1.0_58
+    21300118: 32x32_map_tile v1.0_59
+    21300120: 32x32_map_tile v1.0_60
+    21300122: 32x32_map_tile v1.0_61
+    21300124: 32x32_map_tile v1.0_62
+    21300126: 32x32_map_tile v1.0_63
+    21300128: 32x32_map_tile v1.0_64
+    21300130: 32x32_map_tile v1.0_65
+    21300132: 32x32_map_tile v1.0_66
+    21300134: 32x32_map_tile v1.0_67
+    21300136: 32x32_map_tile v1.0_68
+    21300138: 32x32_map_tile v1.0_69
+    21300140: 32x32_map_tile v1.0_70
+    21300142: 32x32_map_tile v1.0_71
+    21300144: 32x32_map_tile v1.0_72
+    21300146: 32x32_map_tile v1.0_73
+    21300148: 32x32_map_tile v1.0_74
+    21300150: 32x32_map_tile v1.0_75
+    21300152: 32x32_map_tile v1.0_76
+    21300154: 32x32_map_tile v1.0_77
+    21300156: 32x32_map_tile v1.0_78
+    21300158: 32x32_map_tile v1.0_79
+    21300160: 32x32_map_tile v1.0_80
+    21300162: 32x32_map_tile v1.0_81
+    21300164: 32x32_map_tile v1.0_82
+    21300166: 32x32_map_tile v1.0_83
+    21300168: 32x32_map_tile v1.0_84
+    21300170: 32x32_map_tile v1.0_85
+    21300172: 32x32_map_tile v1.0_86
+    21300174: 32x32_map_tile v1.0_87
+    21300176: 32x32_map_tile v1.0_88
+    21300178: 32x32_map_tile v1.0_89
+    21300180: 32x32_map_tile v1.0_90
+    21300182: 32x32_map_tile v1.0_91
+    21300184: 32x32_map_tile v1.0_92
+    21300186: 32x32_map_tile v1.0_93
+    21300188: 32x32_map_tile v1.0_94
+    21300190: 32x32_map_tile v1.0_95
+    21300192: 32x32_map_tile v1.0_96
+    21300194: 32x32_map_tile v1.0_97
+    21300196: 32x32_map_tile v1.0_98
+    21300198: 32x32_map_tile v1.0_99
+    21300200: 32x32_map_tile v1.0_100
+    21300202: 32x32_map_tile v1.0_101
+    21300204: 32x32_map_tile v1.0_102
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 31
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 32x32_map_tile v1.0_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_23
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_29
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 182
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 186
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_34
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_36
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_37
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_38
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_39
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 165
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_49
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_51
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_52
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_53
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_54
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_55
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_56
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_58
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 66
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_59
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 66
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_60
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 66
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_61
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_62
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_63
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_64
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_65
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_66
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_67
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_68
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_69
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_70
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_71
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_72
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_73
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_74
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_75
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_76
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_77
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_78
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_79
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_80
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_81
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_82
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_84
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_85
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_86
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_87
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_88
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_89
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_90
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_91
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_93
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_94
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_95
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_97
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_98
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_99
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_100
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_101
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 32x32_map_tile v1.0_102
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
