@@ -6,10 +6,6 @@ public class Health : EntityComponent {
     int health;
     GameObject parent;
 
-    public Health() {
-        health = maxHealth;
-    }
-
     public Health(int maxHealth) {
         this.maxHealth = maxHealth;
         health = maxHealth;
@@ -17,7 +13,12 @@ public class Health : EntityComponent {
 
     public void initHealthBar(GameObject obj) {
         this.parent = obj;
+        Debug.Log("Healthbar intialized for gameObject:" + obj.name);
         //TODO add healthbar to object
+    }
+
+    public void updateHealthBar(GameObject obj) {
+        //TODO update healthbar to object
     }
 
     private void increaseHealth(int increasement) {
@@ -57,6 +58,7 @@ public class Health : EntityComponent {
         if(this.getHealth() <= 0) {
             this.onNoHealth();
         }
+        Debug.Log("gameobject:" + parent + " received " + damage + " damage" + " | current health:" + health);
     }
 
     public void recoverHealth(int increasement) {
@@ -64,7 +66,8 @@ public class Health : EntityComponent {
     }
 
     public void onNoHealth() {
-        //TODO make this function
+        Debug.Log(parent + " is now dead");
+        //TODO do more when dying
     }
 
     override public void update() {}
