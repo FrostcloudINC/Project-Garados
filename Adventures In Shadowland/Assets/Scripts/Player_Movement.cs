@@ -43,7 +43,7 @@ public class Player_Movement : MonoBehaviour {
 	void Movement()
 	{
 		anim.SetFloat("HorizontalSpeed", Mathf.Abs (Input.GetAxisRaw("Horizontal")));
-		Debug.Log (anim.GetFloat("HorizontalSpeed"));
+		//Debug.Log (anim.GetFloat("HorizontalSpeed"));
 	
 		if (Input.GetAxisRaw ("Vertical") > 0) {
 			transform.Translate (Vector2.up * 4f * Time.deltaTime);
