@@ -3,6 +3,7 @@ using System.Collections;
 
 public class Player : Entity{
     Health health;
+	Combat combat;
 
     void Start() {
         init();
@@ -12,5 +13,6 @@ public class Player : Entity{
         base.init();
         this.addComponent(health = new Health(3));
         health.initHealthBar(this.gameObject, new PlayerHB());
+		combat.initCombat(this.gameObject);
     }
 }
