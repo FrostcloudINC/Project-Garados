@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public abstract class Healthbar{
+public abstract class HealthBar{
     public Texture2D[] textures;
 
     public abstract void init(Health h);

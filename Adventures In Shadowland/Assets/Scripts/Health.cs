@@ -5,14 +5,17 @@ public class Health : EntityComponent {
     int maxHealth;
     int health;
     GameObject parent;
+    HealthBar bar;
 
     public Health(int maxHealth) {
         this.maxHealth = maxHealth;
         health = maxHealth;
     }
 
-    public void initHealthBar(GameObject obj) {
+    public void initHealthBar(GameObject obj, HealthBar bar) {
         this.parent = obj;
+        this.bar = bar;
+        bar.init(this);
         Debug.Log("Healthbar intialized for gameObject:" + obj.name);
         //TODO add healthbar to object
     }
