@@ -11,6 +11,6 @@ public class Player : Entity{
     public new void init() {
         base.init();
         this.addComponent(health = new Health(3));
-        health.initHealthBar(this.gameObject);
+        health.initHealthBar(this.gameObject, new PlayerHB());
     }
 }
