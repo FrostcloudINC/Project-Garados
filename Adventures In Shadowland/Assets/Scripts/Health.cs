@@ -74,6 +74,10 @@ public class Health : EntityComponent {
         //TODO do more when dying
     }
 
+    public GameObject getParent() {
+        return this.parent;
+    }
+
     override public void update() {
         updateHealthBar(parent);
     }
