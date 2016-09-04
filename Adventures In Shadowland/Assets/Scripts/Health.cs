@@ -21,6 +21,7 @@ public class Health : EntityComponent {
     }
 
     public void updateHealthBar(GameObject obj) {
+        bar.update(this);
         //TODO update healthbar to object
     }
 

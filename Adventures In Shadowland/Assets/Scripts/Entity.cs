@@ -15,11 +15,15 @@ public class Entity : MonoBehaviour {
         this.components = new List<EntityComponent>();
     }
 	
-	// Update is called once per frame
-	void Update () {
-        foreach(EntityComponent comp in this.components) {
+    public void update() {
+        foreach (EntityComponent comp in this.components) {
             comp.update();
         }
+    }
+
+	// Update is called once per frame
+	void Update () {
+        update();
 	}
 
     public void addComponent(EntityComponent comp) {

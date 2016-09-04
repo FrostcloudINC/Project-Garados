@@ -8,6 +8,10 @@ public class Player : Entity{
         init();
     }
 
+    void Update() {
+        update();
+    }
+
     public new void init() {
         base.init();
         this.addComponent(health = new Health(3));
