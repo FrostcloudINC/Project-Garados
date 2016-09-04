@@ -15,8 +15,13 @@ public class Enemy : Entity{
         //health.initHealthBar(this.gameObject, new EnemyHB());
     }
 
-    void Update () {
+    public new void update() {
+        base.update();
         attack(GameObject.Find("TestLogicPlayer").GetComponent<Entity>());
+    }
+
+    void Update () {
+        update();
     }
 
     //TODO This method should be deleted when starting to make attack logic. This should be connected to it's own component

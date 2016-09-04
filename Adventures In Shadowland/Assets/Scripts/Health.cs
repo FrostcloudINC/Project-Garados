@@ -74,5 +74,7 @@ public class Health : EntityComponent {
         //TODO do more when dying
     }
 
-    override public void update() {}
+    override public void update() {
+        updateHealthBar(parent);
+    }
 }
