@@ -46,7 +46,7 @@ public class Combat : EntityComponent {
 		bool inRange = false;
 		Vector2 parentPosition = new Vector2(parent.transform.position.x,parent.transform.position.y);
 
-		RaycastHit2D hit;
+        RaycastHit2D hit = new RaycastHit2D();
 		if(
 		Physics2D.Linecast(parentPosition, new Vector2(parentPosition.x + 1, parentPosition.y),castingLayerMask) ||
 		Physics2D.Linecast(parentPosition, new Vector2(parentPosition.x - 1, parentPosition.y),castingLayerMask) ||
@@ -58,7 +58,12 @@ public class Combat : EntityComponent {
 		Physics2D.Linecast(parentPosition, new Vector2(parentPosition.x + 1, parentPosition.y + 1),castingLayerMask)
 		)
 		{
-			hit.collider.gameObject.GetComponent<Entity>()==target? inRange = true:inRange = false;
+            if (hit.collider.gameObject.GetComponent<Entity>() == target) {
+                inRange = true;
+            } 
+            else {
+                inRange = false;
+            }
 		}
 
 		return inRange;
